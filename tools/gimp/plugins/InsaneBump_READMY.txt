@@ -1,0 +1,8 @@
+http://registry.gimp.org/node/28117
+
+The script produces different files within the original image's directory:
+the _n is the normal map,
+the _s is the specular,
+the _d is the diffusion (just the color)
+the _a is the ambiend occlusion
+the _h is the displacement (or height map)
